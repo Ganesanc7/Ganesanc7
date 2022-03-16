@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python,java
 - 💞️ I’m looking to collaborate on my team mates
-- 📫 How to reach me ...
+- 📫 to reach me--> ganesanc1993@gmail.com
 
 <!---
 Ganesanc7/Ganesanc7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
